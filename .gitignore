@@ -91,6 +91,12 @@ fabric.properties
 # vcs
 .idea/vcs.xml
 
+# encodings
+.idea/encodings.xml
+
+# kotlin
+.idea/kotlinc.xml
+
 # Sonarlint plugin
 # https://plugins.jetbrains.com/plugin/7973-sonarlint
 .idea/**/sonarlint/
