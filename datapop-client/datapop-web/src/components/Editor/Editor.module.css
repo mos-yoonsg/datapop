@@ -1,0 +1,27 @@
+.input {
+  background-color: #3a3a3a;
+  color: #f8f8f2;
+  border: 1px solid #6272a4;
+  padding: 8px;
+  font-family: 'Fira Code', monospace;
+  border-radius: 4px;
+}
+
+.input:focus {
+  border-color: #50fa7b;
+}
+
+.button {
+  background-color: #44475a;
+  color: #f8f8f2;
+  border: 1px solid #6272a4;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: 'Fira Code', monospace;
+}
+
+.button:hover {
+  background-color: #50fa7b;
+  border-color: #50fa7b;
+}

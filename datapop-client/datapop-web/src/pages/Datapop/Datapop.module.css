@@ -1,0 +1,23 @@
+
+.datapop-layout {
+  display: flex;
+  justify-content: space-between;
+  height: 100vh;
+  background-color: #1e1e1e;
+  padding: 20px;
+}
+
+.editor-container {
+  width: 30%;
+  background-color: #282c34;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.board-container {
+  width: 65%;
+  background-color: #282c34;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
